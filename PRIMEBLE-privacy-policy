@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PRIMEBLE - Privacy Policy and Terms of Use</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #111827;
+      background: #f8fafc;
+    }
+
+    main {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 32px;
+      background: #ffffff;
+    }
+
+    h1, h2, h3 {
+      color: #0f172a;
+      line-height: 1.25;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 8px;
+    }
+
+    h2 {
+      margin-top: 36px;
+      border-bottom: 2px solid #e5e7eb;
+      padding-bottom: 8px;
+    }
+
+    h3 {
+      margin-top: 24px;
+    }
+
+    a {
+      color: #2563eb;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    ul {
+      padding-left: 24px;
+    }
+
+    .meta {
+      color: #475569;
+      margin-bottom: 24px;
+    }
+
+    .notice {
+      background: #eff6ff;
+      border-left: 4px solid #2563eb;
+      padding: 14px 16px;
+      margin: 24px 0;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #e5e7eb;
+      color: #64748b;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>PRIMEBLE - Privacy Policy and Terms of Use</h1>
+
+    <p class="meta">
+      <strong>Effective date:</strong> August 15, 2026<br />
+      <strong>Developer:</strong> Quantum Zenith<br />
+      <strong>Contact:</strong>
+      <a href="mailto:quantum.zenith.peru@gmail.com">quantum.zenith.peru@gmail.com</a>
+    </p>
+
+    <div class="notice">
+      This page explains how PRIMEBLE collects, uses, stores, and protects user data,
+      and describes the terms that apply when using the app.
+    </div>
+
+    <h2>Privacy Policy</h2>
+
+    <h3>1. App Overview</h3>
+    <p>
+      PRIMEBLE is a mobile game that allows users to play, save progress, sign in with Google,
+      create a public player profile, participate in rankings, and access a virtual store with
+      optional in-app purchases.
+    </p>
+
+    <h3>2. Data We Collect</h3>
+    <p>When you use PRIMEBLE, we may collect and store the following information:</p>
+    <ul>
+      <li><strong>Name:</strong> obtained from your Google account or player profile.</li>
+      <li><strong>Nickname:</strong> chosen by the user for display in rankings.</li>
+      <li><strong>Age:</strong> provided by the user during profile setup.</li>
+      <li><strong>Country:</strong> selected by the user during profile setup.</li>
+      <li><strong>Country flag:</strong> selected based on the chosen country and shown in rankings.</li>
+      <li><strong>Email address:</strong> obtained from Google Sign-In for account identification.</li>
+      <li><strong>Google user ID:</strong> used to identify the account securely.</li>
+      <li><strong>Profile photo URL:</strong> if provided by the Google account.</li>
+      <li><strong>Player icon:</strong> chosen by the user.</li>
+      <li><strong>Game score:</strong> including best score and weekly ranking score.</li>
+      <li><strong>Save data:</strong> stored locally on the device to resume game progress.</li>
+      <li><strong>Purchase status:</strong> when in-app purchases are used, PRIMEBLE may store purchase entitlement or transaction status needed to unlock virtual items or features.</li>
+    </ul>
+
+    <h3>3. How We Use Data</h3>
+    <p>We use the collected data for the following purposes:</p>
+    <ul>
+      <li>To allow users to sign in with Google.</li>
+      <li>To create and manage a player profile.</li>
+      <li>To save and display scores in weekly rankings.</li>
+      <li>To show nickname, player icon, country flag, and score in the ranking list.</li>
+      <li>To maintain game progress locally on the device.</li>
+      <li>To improve account continuity when users change or restore devices.</li>
+      <li>To manage virtual items, rewards, upgrades, or purchases made through Google Play Billing.</li>
+      <li>To prevent abuse, fraud, or manipulation of rankings and purchases.</li>
+    </ul>
+
+    <h3>4. Public Ranking Information</h3>
+    <p>
+      PRIMEBLE may display public ranking information to other users. This may include:
+      nickname, selected player icon, selected country flag, and score.
+    </p>
+    <p>
+      PRIMEBLE does not publicly display the user's email address, Google user ID, age,
+      or private account details.
+    </p>
+
+    <h3>5. Data Sharing</h3>
+    <p>
+      PRIMEBLE does not sell personal data. Data may be processed using third-party services
+      necessary for app functionality, including Google and Firebase services.
+    </p>
+    <p>
+      Public ranking information may be visible to other users, including nickname, selected icon,
+      country flag, and score.
+    </p>
+
+    <h3>6. Third-Party Services</h3>
+    <p>PRIMEBLE uses or may use the following third-party services:</p>
+    <ul>
+      <li><strong>Google Sign-In:</strong> for user authentication.</li>
+      <li><strong>Firebase Authentication:</strong> for account login and account identity.</li>
+      <li><strong>Firebase Firestore:</strong> for storing user profile and ranking data.</li>
+      <li><strong>Google Play Billing:</strong> for processing optional in-app purchases.</li>
+    </ul>
+
+    <h3>7. Payments and In-App Purchases</h3>
+    <p>
+      PRIMEBLE includes or may include a virtual store with optional in-app purchases.
+      Purchases may include virtual items, upgrades, bonuses, or access to additional features.
+    </p>
+    <p>
+      Payments are processed through Google Play Billing. PRIMEBLE does not directly collect,
+      process, or store credit card numbers, debit card numbers, bank account information,
+      or other financial payment credentials.
+    </p>
+    <p>
+      PRIMEBLE may store purchase status, entitlement information, or transaction references
+      necessary to confirm and deliver purchased virtual items or features.
+    </p>
+
+    <h3>8. Data Storage and Security</h3>
+    <p>
+      User profile and ranking data are stored using Firebase Firestore. Access is protected
+      using Firebase Authentication and Firestore security rules. Local save data is stored on
+      the user's device.
+    </p>
+    <p>
+      We use reasonable technical and organizational measures to protect user data. However,
+      no method of electronic storage or transmission is completely secure.
+    </p>
+
+    <h3>9. Data Retention</h3>
+    <p>
+      Account profile data is retained while the user keeps an active PRIMEBLE account.
+      Weekly ranking data may reset or rotate weekly. Local save data remains on the user's
+      device unless the user clears app data or uninstalls the app.
+    </p>
+    <p>
+      Purchase-related entitlement data may be retained as needed to provide purchased items,
+      restore purchases, prevent fraud, or comply with platform and legal requirements.
+    </p>
+
+    <h3>10. Account and Data Deletion</h3>
+    <p>
+      Users may request deletion of their account and associated data by contacting:
+      <a href="mailto:quantum.zenith.peru@gmail.com">quantum.zenith.peru@gmail.com</a>.
+    </p>
+    <p>
+      When a deletion request is received, we will delete associated user profile data and ranking
+      records linked to the user's account, unless retention is required by applicable law,
+      fraud prevention, dispute resolution, or platform obligations.
+    </p>
+
+    <h3>11. Children and Age Information</h3>
+    <p>
+      PRIMEBLE asks for age to support basic user profile information and responsible account handling.
+      If a parent or guardian believes a child has provided personal data without appropriate consent,
+      they may contact us to request deletion.
+    </p>
+
+    <h3>12. International Users</h3>
+    <p>
+      Users may access PRIMEBLE from different countries. By using the app, users understand that their
+      data may be processed through Firebase and Google services according to Google's infrastructure
+      and applicable policies.
+    </p>
+
+    <h3>13. Changes to This Privacy Policy</h3>
+    <p>
+      We may update this Privacy Policy from time to time. Any changes will be posted on this page
+      with an updated effective date.
+    </p>
+
+    <h2>Terms of Use</h2>
+
+    <h3>1. Acceptance of Terms</h3>
+    <p>
+      By using PRIMEBLE, you agree to these Terms of Use. If you do not agree, please do not use the app.
+    </p>
+
+    <h3>2. User Account</h3>
+    <p>
+      Users may sign in with Google to create a profile, save identity information, and participate
+      in rankings. Users are responsible for the accuracy of the nickname, age, country, and icon
+      they provide.
+    </p>
+
+    <h3>3. Ranking and Scores</h3>
+    <p>
+      PRIMEBLE may display weekly rankings using nickname, selected player icon, country flag,
+      and score. Scores may be updated periodically and may reset weekly.
+    </p>
+
+    <h3>4. Fair Play</h3>
+    <p>
+      Users must not attempt to manipulate scores, interfere with the app, bypass security rules,
+      exploit bugs, or use unauthorized tools to modify game data, rankings, purchases, or rewards.
+    </p>
+
+    <h3>5. Virtual Store and In-App Purchases</h3>
+    <p>
+      PRIMEBLE may include a virtual store. The store may offer optional in-app purchases,
+      such as virtual items, upgrades, bonuses, or access to additional features.
+    </p>
+    <p>
+      Payments are processed through Google Play Billing. PRIMEBLE does not directly collect or store
+      payment card numbers, bank account information, or other financial payment credentials.
+    </p>
+    <p>
+      Purchases, refunds, cancellations, and billing issues are subject to Google Play's applicable
+      payment, refund, and billing policies.
+    </p>
+    <p>
+      Virtual items or digital benefits may have no real-world monetary value and may be usable only
+      within PRIMEBLE, unless otherwise stated.
+    </p>
+
+    <h3>6. Availability of Features</h3>
+    <p>
+      PRIMEBLE is provided as available. We may update, modify, suspend, or discontinue parts of the app,
+      including game features, rankings, rewards, and store items, at any time.
+    </p>
+
+    <h3>7. User Conduct</h3>
+    <p>
+      Users agree not to misuse the app, access data without authorization, interfere with Firebase
+      services, impersonate others, or submit offensive or misleading profile information.
+    </p>
+
+    <h3>8. Limitation of Liability</h3>
+    <p>
+      To the maximum extent permitted by law, the developer is not responsible for indirect damages,
+      data loss, service interruptions, ranking errors, purchase delays, or issues caused by third-party
+      services such as Google, Firebase, or Google Play Billing.
+    </p>
+
+    <h3>9. Termination</h3>
+    <p>
+      We may restrict or remove access to PRIMEBLE features if a user violates these Terms of Use,
+      manipulates scores, abuses purchases, or interferes with app security.
+    </p>
+
+    <h3>10. Contact</h3>
+    <p>
+      For privacy, account deletion, purchase-related support, or general support requests, contact:
+      <a href="mailto:quantum.zenith.peru@gmail.com">quantum.zenith.peru@gmail.com</a>.
+    </p>
+
+    <h2>Google Play Compliance Summary</h2>
+    <ul>
+      <li>Data collected: name, nickname, age, country, country flag, email, Google user ID, profile photo URL, player icon, score, local save data, and purchase entitlement/status if purchases are used.</li>
+      <li>Purpose: authentication, profile creation, save continuity, rankings, virtual store functionality, purchases, and game features.</li>
+      <li>Sharing: ranking display shows nickname, icon, country flag, and score; Firebase and Google services process data for app functionality.</li>
+      <li>Payments: payment credentials are processed by Google Play Billing, not directly by PRIMEBLE.</li>
+      <li>Deletion: users can request account and data deletion by email.</li>
+      <li>Security: Firebase Authentication and Firestore rules are used to protect user data.</li>
+    </ul>
+
+    <footer>
+      <p>
+        This Privacy Policy and Terms of Use apply to PRIMEBLE by Quantum Zenith.
+      </p>
+    </footer>
+  </main>
+</body>
+</html>
